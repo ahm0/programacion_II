@@ -16,7 +16,7 @@ Para realizar la reserva de una habitación se deberán ingresar los datos del c
 
 El recepcionista deberá preguntar al cliente si quiere que el hotel le asigne una habitación o si prefiere elegir una en particular. Si el cliente está dispuesto a que el hotel le asigne una habitación, se deberá Implementar un algoritmo que permita asignar la primer habitación *libre* que se encuentre. Si por el contrario, el cliente desea elegir una habitación particular, el recepcionista deberá preguntar al cliente el **Id** de la habitación que desea.
 
-Cuando un cliente abandone el hotel, el recepcionista deberá solicitar al cliente el **Id** de la habitación en la que se alojó para marcarla como *libre*
+Cuando un cliente abandone el hotel, el recepcionista deberá solicitar al cliente el **Id** de la habitación en la que se alojó para marcarla como *libre*.
 
 ## Requerimientos no funcionales
 
